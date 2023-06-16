@@ -1,5 +1,5 @@
 {:meta/version 1
- :default-home {:page "readme", :sidebar "How to use this guide"}
+ :default-home {:page "wizbox", :sidebar "How to use this guide"}
  ;; Set the preferred format.
  ;; Available options:
  ;; - Markdown (default)
